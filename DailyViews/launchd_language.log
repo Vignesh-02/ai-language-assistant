@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/vignesh/dev/ai-projects/ai-language-assistant/daily_language.py", line 6, in <module>
+    import anthropic
+ModuleNotFoundError: No module named 'anthropic'
