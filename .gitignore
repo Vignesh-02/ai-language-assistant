@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 
 # Outputs
-DailyLanguageLearnings/
+docs.md

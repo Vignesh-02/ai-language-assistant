@@ -1,0 +1,62 @@
+2026-03-11 00:15:26,950 - ERROR - CLAUDE_API_KEY missing!
+2026-03-11 00:18:07,127 - ERROR - CLAUDE_API_KEY missing!
+2026-03-11 00:22:47,385 - ERROR - CLAUDE_API_KEY missing!
+2026-03-11 00:24:39,534 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 00:24:39,557 - INFO - Saved language pack: /Users/vignesh/dev/ai-projects/ai-language-assistant/DailyLanguageLearnings/Language/2026-03-11_language_pack.md
+2026-03-11 01:26:41,358 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 01:26:41,382 - ERROR - JSON parse error: Expecting ',' delimiter: line 49 column 111 (char 2100)
+2026-03-11 01:26:41,382 - ERROR - {
+  "languages": {
+    "Spanish": {
+      "words": [
+        {"term": "mano", "en": "hand"},
+        {"term": "corazón", "en": "heart"},
+        {"term": "tiempo", "en": "time"}
+      ],
+      "phrases": [
+        {"term": "De nada", "en": "You're welcome"},
+        {"term": "Buenas noches", "en": "Good evening"},
+        {"term": "Mucho gusto", "en": "Nice to meet you"}
+      ],
+      "sentences": [
+        {"term": "Mi corazón late rápido cuando corro con mis amigos.", "en": "My heart beats fast when I run with my friends."},
+        {"term": "La mano derecha es muy importante para escribir.", "en": "The right hand is very important for writing."},
+        {"term": "Necesito más tiempo para terminar este trabajo importante.", "en": "I need more time to finish this important work."}
+      ]
+    },
+    "Brazilian Portuguese": {
+      "words": [
+        {"term": "chuva", "en": "rain"},
+        {"term": "livro", "en": "book"},
+        {"term": "noite", "en": "night"}
+      ],
+      "phrases": [
+        {"term": "Muito obrigado", "en": "Thank you very much"},
+        {"term": "Com licença", "en": "Excuse me"},
+        {"term": "Até mais tarde", "en": "See you later"}
+      ],
+      "sentences": [
+        {"term": "A chuva caiu durante toda a noite passada.", "en": "The rain fell all night long."},
+        {"term": "Estou lendo um livro muito interessante neste momento.", "en": "I am reading a very interesting book right now."},
+        {"term": "Na noite de ontem, ouvi o som da chuva no telhado.", "en": "Last night, I heard the sound of rain on the roof."}
+      ]
+    },
+    "Italian": {
+      "words": [
+        {"term": "gatto", "en": "cat"},
+        {"term": "rosa", "en": "rose"},
+        {"term": "cuore", "en": "heart"}
+      ],
+      "phrases": [
+        {"term": "Arrivederci a presto", "en": "See you soon"},
+        {"term": "Mi dispiace molto", "en": "I'm very sorry"},
+        {"term": "Che bello!", "en": "How beautiful!"}
+      ],
+      "sentences": [
+        {"term": "Il mio gatto dorme tutto il giorno sul divano.", "en": "My cat sleeps all day on the sofa."}
+2026-03-11 01:27:22,257 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 01:27:22,279 - INFO - Saved language pack: /Users/vignesh/dev/ai-projects/ai-language-assistant/DailyLanguageLearnings/Language/2026-03-11_language_pack.md
+2026-03-11 01:30:31,840 - INFO - Approx prompt tokens: 739 (chars: 2959)
+2026-03-11 01:30:37,837 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 01:30:37,858 - INFO - Approx response tokens: 823 (chars: 3292)
+2026-03-11 01:30:37,859 - INFO - Saved language pack: /Users/vignesh/dev/ai-projects/ai-language-assistant/DailyLanguageLearnings/Language/2026-03-11_language_pack.md

@@ -1,0 +1,489 @@
+[
+  {
+    "date": "2026-03-11T00:24:39.557183",
+    "languages": {
+      "Spanish": {
+        "words": [
+          {
+            "term": "ventana",
+            "en": "window"
+          },
+          {
+            "term": "libro",
+            "en": "book"
+          },
+          {
+            "term": "café",
+            "en": "coffee"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "¿Cómo estás hoy?",
+            "en": "How are you today?"
+          },
+          {
+            "term": "Me gustaría un café, por favor",
+            "en": "I would like a coffee, please"
+          },
+          {
+            "term": "¿Dónde está la estación?",
+            "en": "Where is the train station?"
+          }
+        ]
+      },
+      "Brazilian Portuguese": {
+        "words": [
+          {
+            "term": "mesa",
+            "en": "table"
+          },
+          {
+            "term": "água",
+            "en": "water"
+          },
+          {
+            "term": "flores",
+            "en": "flowers"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "Tudo bem com você?",
+            "en": "Is everything okay with you?"
+          },
+          {
+            "term": "Gostaria de um suco, por favor",
+            "en": "I would like a juice, please"
+          },
+          {
+            "term": "Qual é o seu nome?",
+            "en": "What is your name?"
+          }
+        ]
+      },
+      "Italian": {
+        "words": [
+          {
+            "term": "sole",
+            "en": "sun"
+          },
+          {
+            "term": "pane",
+            "en": "bread"
+          },
+          {
+            "term": "strada",
+            "en": "street"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "Buongiorno, come stai?",
+            "en": "Good morning, how are you?"
+          },
+          {
+            "term": "Mi piacerebbe un bicchiere d'acqua",
+            "en": "I would like a glass of water"
+          },
+          {
+            "term": "Dov'è il bagno, per favore?",
+            "en": "Where is the bathroom, please?"
+          }
+        ]
+      },
+      "French": {
+        "words": [
+          {
+            "term": "arbre",
+            "en": "tree"
+          },
+          {
+            "term": "maison",
+            "en": "house"
+          },
+          {
+            "term": "jour",
+            "en": "day"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "Enchanté de vous rencontrer",
+            "en": "Pleased to meet you"
+          },
+          {
+            "term": "Je voudrais une tasse de thé",
+            "en": "I would like a cup of tea"
+          },
+          {
+            "term": "Quelle heure est-il?",
+            "en": "What time is it?"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2026-03-11T01:27:22.279910",
+    "languages": {
+      "Spanish": {
+        "words": [
+          {
+            "term": "puerta",
+            "en": "door"
+          },
+          {
+            "term": "tiempo",
+            "en": "time/weather"
+          },
+          {
+            "term": "noche",
+            "en": "night"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "Buenas noches",
+            "en": "Good evening/night"
+          },
+          {
+            "term": "¿Qué hora es?",
+            "en": "What time is it?"
+          },
+          {
+            "term": "Hasta mañana",
+            "en": "See you tomorrow"
+          }
+        ],
+        "sentences": [
+          {
+            "term": "La puerta está abierta durante el tiempo de visita.",
+            "en": "The door is open during visiting time."
+          },
+          {
+            "term": "¿Tienes tiempo esta noche para hablar conmigo?",
+            "en": "Do you have time tonight to talk with me?"
+          },
+          {
+            "term": "Cierro la puerta antes de la noche cada día.",
+            "en": "I close the door before night every day."
+          }
+        ]
+      },
+      "Brazilian Portuguese": {
+        "words": [
+          {
+            "term": "livro",
+            "en": "book"
+          },
+          {
+            "term": "trabalho",
+            "en": "work"
+          },
+          {
+            "term": "coração",
+            "en": "heart"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "Com todo o coração",
+            "en": "With all my heart"
+          },
+          {
+            "term": "Eu adoro ler",
+            "en": "I love to read"
+          },
+          {
+            "term": "Que dia é hoje?",
+            "en": "What day is today?"
+          }
+        ],
+        "sentences": [
+          {
+            "term": "Meu livro favorito fala sobre trabalho e dedicação.",
+            "en": "My favorite book talks about work and dedication."
+          },
+          {
+            "term": "Faço este trabalho com todo o coração e alma.",
+            "en": "I do this work with all my heart and soul."
+          },
+          {
+            "term": "Comprei um livro novo para estudar no trabalho.",
+            "en": "I bought a new book to study at work."
+          }
+        ]
+      },
+      "Italian": {
+        "words": [
+          {
+            "term": "gatto",
+            "en": "cat"
+          },
+          {
+            "term": "amico",
+            "en": "friend"
+          },
+          {
+            "term": "cibo",
+            "en": "food"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "Mi piace molto",
+            "en": "I like it very much"
+          },
+          {
+            "term": "Grazie mille",
+            "en": "Thank you very much"
+          },
+          {
+            "term": "Per favore, aiutami",
+            "en": "Please, help me"
+          }
+        ],
+        "sentences": [
+          {
+            "term": "Il mio gatto mangia il cibo ogni mattina con entusiasmo.",
+            "en": "My cat eats food every morning with enthusiasm."
+          },
+          {
+            "term": "Un amico vero condivide il cibo e il tempo con te.",
+            "en": "A true friend shares food and time with you."
+          },
+          {
+            "term": "Mi piace molto stare con il mio gatto e il mio amico.",
+            "en": "I like very much to spend time with my cat and my friend."
+          }
+        ]
+      },
+      "French": {
+        "words": [
+          {
+            "term": "enfant",
+            "en": "child"
+          },
+          {
+            "term": "école",
+            "en": "school"
+          },
+          {
+            "term": "ami",
+            "en": "friend"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "À bientôt",
+            "en": "See you soon"
+          },
+          {
+            "term": "C'est magnifique",
+            "en": "It's magnificent"
+          },
+          {
+            "term": "Je suis heureux",
+            "en": "I am happy"
+          }
+        ],
+        "sentences": [
+          {
+            "term": "L'enfant va à l'école avec son meilleur ami chaque jour.",
+            "en": "The child goes to school with his best friend every day."
+          },
+          {
+            "term": "Mon ami est un enfant heureux qui aime l'école.",
+            "en": "My friend is a happy child who loves school."
+          },
+          {
+            "term": "À l'école, cet enfant et cet ami jouent ensemble.",
+            "en": "At school, this child and this friend play together."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "date": "2026-03-11T01:30:37.859395",
+    "languages": {
+      "Spanish": {
+        "words": [
+          {
+            "term": "silla",
+            "en": "chair"
+          },
+          {
+            "term": "comida",
+            "en": "food"
+          },
+          {
+            "term": "hermano",
+            "en": "brother"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "¿Dónde está la silla?",
+            "en": "Where is the chair?"
+          },
+          {
+            "term": "Me encanta esta comida",
+            "en": "I love this food"
+          },
+          {
+            "term": "Mi hermano es amable",
+            "en": "My brother is kind"
+          }
+        ],
+        "sentences": [
+          {
+            "term": "Mi hermano se sienta en la silla para comer comida.",
+            "en": "My brother sits in the chair to eat food."
+          },
+          {
+            "term": "La silla azul está cerca de la comida en la mesa.",
+            "en": "The blue chair is near the food on the table."
+          },
+          {
+            "term": "Mi hermano prepara comida deliciosa en la casa.",
+            "en": "My brother prepares delicious food at home."
+          }
+        ]
+      },
+      "Brazilian Portuguese": {
+        "words": [
+          {
+            "term": "chuva",
+            "en": "rain"
+          },
+          {
+            "term": "amigo",
+            "en": "friend"
+          },
+          {
+            "term": "carro",
+            "en": "car"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "Que chuva forte!",
+            "en": "What heavy rain!"
+          },
+          {
+            "term": "Meu amigo chegou",
+            "en": "My friend arrived"
+          },
+          {
+            "term": "O carro está pronto",
+            "en": "The car is ready"
+          }
+        ],
+        "sentences": [
+          {
+            "term": "Meu amigo chegou de carro durante a chuva forte.",
+            "en": "My friend arrived by car during heavy rain."
+          },
+          {
+            "term": "O carro do meu amigo parou por causa da chuva.",
+            "en": "My friend's car stopped because of the rain."
+          },
+          {
+            "term": "Espero meu amigo no carro quando chove muito.",
+            "en": "I wait for my friend in the car when it rains a lot."
+          }
+        ]
+      },
+      "Italian": {
+        "words": [
+          {
+            "term": "musica",
+            "en": "music"
+          },
+          {
+            "term": "stanza",
+            "en": "room"
+          },
+          {
+            "term": "finestra",
+            "en": "window"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "Ascolta la musica",
+            "en": "Listen to the music"
+          },
+          {
+            "term": "In questa stanza",
+            "en": "In this room"
+          },
+          {
+            "term": "Dalla finestra vedo",
+            "en": "From the window I see"
+          }
+        ],
+        "sentences": [
+          {
+            "term": "Ascolto la musica nella stanza con la finestra aperta.",
+            "en": "I listen to music in the room with the open window."
+          },
+          {
+            "term": "La musica viene dalla stanza accanto alla finestra grande.",
+            "en": "The music comes from the room next to the big window."
+          },
+          {
+            "term": "Mi piace suonare musica nella mia stanza con la finestra.",
+            "en": "I like to play music in my room with the window."
+          }
+        ]
+      },
+      "French": {
+        "words": [
+          {
+            "term": "chat",
+            "en": "cat"
+          },
+          {
+            "term": "livre",
+            "en": "book"
+          },
+          {
+            "term": "cuisine",
+            "en": "kitchen"
+          }
+        ],
+        "phrases": [
+          {
+            "term": "Le chat noir",
+            "en": "The black cat"
+          },
+          {
+            "term": "Lire un livre",
+            "en": "To read a book"
+          },
+          {
+            "term": "Dans la cuisine",
+            "en": "In the kitchen"
+          }
+        ],
+        "sentences": [
+          {
+            "term": "Le chat dort dans la cuisine près du livre ouvert.",
+            "en": "The cat sleeps in the kitchen near the open book."
+          },
+          {
+            "term": "Je lis mon livre dans la cuisine avec mon chat.",
+            "en": "I read my book in the kitchen with my cat."
+          },
+          {
+            "term": "Le chat regarde mon livre pendant que je cuisine.",
+            "en": "The cat watches my book while I cook."
+          }
+        ]
+      }
+    }
+  }
+]
