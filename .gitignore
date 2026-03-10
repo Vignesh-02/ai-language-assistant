@@ -5,3 +5,10 @@ __pycache__/
 
 # Outputs
 docs.md
+DailyLanguageLearnings/*
+!DailyLanguageLearnings/Language/
+!DailyLanguageLearnings/Language/*.md
+DailyLanguageLearnings/daily_language.log
+DailyLanguageLearnings/daily_language.json
+DailyLanguageLearnings/launchd_language.log
+DailyLanguageLearnings/git_sync.log
