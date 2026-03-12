@@ -2,56 +2,56 @@
 
 ## Spanish
 Words:
-- espejo — mirror
-- playa — beach
-- música — music
+- corazón — heart
+- estrella — star
+- montaña — mountain
 Phrases:
-- Voy a la playa — I'm going to the beach
-- Me encanta la música — I love music
-- ¿Dónde está el espejo? — Where is the mirror?
+- De todo corazón — With all my heart
+- Bajo las estrellas — Under the stars
+- En la montaña alta — On the high mountain
 Sentences:
-- La música toca en la playa durante el atardecer. — Music plays at the beach during sunset.
-- Veo mi reflejo en el espejo después de la playa. — I see my reflection in the mirror after the beach.
-- La música alegra mi día en la playa con amigos. — Music brightens my day at the beach with friends.
+- Mi corazón late fuerte cuando veo las estrellas brillantes. — My heart beats strongly when I see the bright stars.
+- La montaña tiene una estrella especial en su cima. — The mountain has a special star at its peak.
+- Con el corazón lleno, subimos la montaña juntos. — With full hearts, we climbed the mountain together.
 
 ## Brazilian Portuguese
 Words:
-- janela — window
-- pássaro — bird
-- verde — green
+- árvore — tree
+- maçã — apple
+- vento — wind
 Phrases:
-- Pela janela vejo — Through the window I see
-- Um pássaro verde — A green bird
-- Abrir a janela — To open the window
+- Debaixo da árvore — Under the tree
+- Maçã vermelha e doce — Red and sweet apple
+- Vento forte hoje — Strong wind today
 Sentences:
-- O pássaro verde pousa na janela da minha casa. — The green bird lands on my house window.
-- Abro a janela para ouvir o canto do pássaro. — I open the window to hear the bird's song.
-- Vejo um pássaro verde voando perto da janela. — I see a green bird flying near the window.
+- A maçã caiu da árvore quando o vento soprou forte. — The apple fell from the tree when the wind blew hard.
+- Colho maçã fresca debaixo da árvore grande. — I pick fresh apples under the big tree.
+- O vento balança a árvore e as maçãs caem. — The wind sways the tree and the apples fall.
 
 ## Italian
 Words:
-- cielo — sky
-- stella — star
-- mano — hand
+- piede — foot
+- porta — door
+- tavolo — table
 Phrases:
-- Guardare il cielo — To look at the sky
-- Una stella brillante — A bright star
-- Tenere la mano — To hold hands
+- Alla porta della casa — At the house door
+- Sotto il tavolo — Under the table
+- Piedi stanchi — Tired feet
 Sentences:
-- Guardo il cielo e vedo una stella brillante. — I look at the sky and see a bright star.
-- La stella brilla nel cielo buio della notte. — The star shines in the dark night sky.
-- Tengo la mano di mio amico mentre guardiamo le stelle. — I hold my friend's hand while we watch the stars.
+- Entro dalla porta e siedo al tavolo con i piedi stanchi. — I enter through the door and sit at the table with tired feet.
+- Il tavolo è vicino alla porta della stanza principale. — The table is close to the door of the main room.
+- Mi tolgo le scarpe dal piede quando arrivo alla porta. — I take off my shoes from my foot when I arrive at the door.
 
 ## French
 Words:
-- fleur — flower
-- soleil — sun
-- parc — park
+- chemin — path
+- montagne — mountain
+- eau — water
 Phrases:
-- Fleur dans le parc — Flower in the park
-- Sous le soleil — Under the sun
-- Marcher dans le parc — To walk in the park
+- Sur le chemin — On the path
+- Eau claire et fraîche — Clear and fresh water
+- La haute montagne — The high mountain
 Sentences:
-- Je marche dans le parc sous le soleil avec une fleur. — I walk in the park under the sun with a flower.
-- La fleur s'ouvre dans le parc quand le soleil brille. — The flower opens in the park when the sun shines.
-- Nous aimons cueillir des fleurs dans le parc au soleil. — We love picking flowers in the park in the sun.
+- Je marche sur le chemin vers la montagne avec de l'eau fraîche. — I walk on the path toward the mountain with fresh water.
+- L'eau coule le long du chemin qui monte la montagne. — Water flows along the path that goes up the mountain.
+- Sur le chemin de montagne, on trouve de l'eau pure et claire. — On the mountain path, you find pure and clear water.
