@@ -2,56 +2,56 @@
 
 ## Spanish
 Words:
-- gato — cat
-- perro — dog
-- casa — house
+- espejo — mirror
+- lámpara — lamp
+- almohada — pillow
 Phrases:
-- mi gato negro — my black cat
-- el perro corre rápido — the dog runs fast
-- una casa grande — a big house
+- mirar en el espejo — to look in the mirror
+- apagar la lámpara — to turn off the lamp
+- dormir en la almohada — to sleep on the pillow
 Sentences:
-- Mi gato duerme en la casa durante el día. — My cat sleeps in the house during the day.
-- El perro juega en el jardín de mi casa. — The dog plays in my house garden.
-- Tengo un gato y un perro que viven en mi casa. — I have a cat and a dog that live in my house.
+- Me miro en el espejo cada mañana antes de salir de casa. — I look in the mirror every morning before leaving home.
+- Enciendo la lámpara cuando oscurece en la almohada de mi cama. — I turn on the lamp when it gets dark near my bed pillow.
+- La almohada está sobre la cama junto al espejo de la habitación. — The pillow is on the bed next to the bedroom mirror.
 
 ## Brazilian Portuguese
 Words:
-- gato — cat
-- cachorro — dog
-- casa — house
+- espelho — mirror
+- lâmpada — lamp
+- almofada — pillow
 Phrases:
-- meu gato preto — my black cat
-- o cachorro corre rápido — the dog runs fast
-- uma casa grande — a big house
+- olhar no espelho — to look in the mirror
+- apagar a lâmpada — to turn off the lamp
+- dormir na almofada — to sleep on the pillow
 Sentences:
-- Meu gato dorme na casa durante o dia. — My cat sleeps in the house during the day.
-- O cachorro brinca no jardim da minha casa. — The dog plays in my house garden.
-- Tenho um gato e um cachorro que vivem na minha casa. — I have a cat and a dog that live in my house.
+- Olho no espelho todos os dias de manhã antes de sair. — I look in the mirror every morning before leaving.
+- Acendo a lâmpada quando fica escuro perto da almofada. — I turn on the lamp when it gets dark near the pillow.
+- A almofada está na cama ao lado do espelho do quarto. — The pillow is on the bed next to the bedroom mirror.
 
 ## Italian
 Words:
-- gatto — cat
-- cane — dog
-- casa — house
+- specchio — mirror
+- lampada — lamp
+- cuscino — pillow
 Phrases:
-- il mio gatto nero — my black cat
-- il cane corre veloce — the dog runs fast
-- una casa grande — a big house
+- guardarsi nello specchio — to look at oneself in the mirror
+- spegnere la lampada — to turn off the lamp
+- dormire sul cuscino — to sleep on the pillow
 Sentences:
-- Il mio gatto dorme in casa durante il giorno. — My cat sleeps in the house during the day.
-- Il cane gioca nel giardino della mia casa. — The dog plays in my house garden.
-- Ho un gatto e un cane che vivono nella mia casa. — I have a cat and a dog that live in my house.
+- Mi guardo nello specchio ogni mattina prima di uscire di casa. — I look at myself in the mirror every morning before leaving home.
+- Accendo la lampada quando diventa scuro vicino al cuscino. — I turn on the lamp when it gets dark near the pillow.
+- Il cuscino è sul letto accanto allo specchio della camera. — The pillow is on the bed next to the bedroom mirror.
 
 ## French
 Words:
-- chat — cat
-- chien — dog
-- maison — house
+- miroir — mirror
+- lampe — lamp
+- oreiller — pillow
 Phrases:
-- mon chat noir — my black cat
-- le chien court vite — the dog runs fast
-- une grande maison — a big house
+- se regarder dans le miroir — to look at oneself in the mirror
+- éteindre la lampe — to turn off the lamp
+- dormir sur l'oreiller — to sleep on the pillow
 Sentences:
-- Mon chat dort dans la maison pendant la journée. — My cat sleeps in the house during the day.
-- Le chien joue dans le jardin de ma maison. — The dog plays in my house garden.
-- J'ai un chat et un chien qui vivent dans ma maison. — I have a cat and a dog that live in my house.
+- Je me regarde dans le miroir chaque matin avant de partir. — I look at myself in the mirror every morning before leaving.
+- J'allume la lampe quand il fait sombre près de l'oreiller. — I turn on the lamp when it gets dark near the pillow.
+- L'oreiller est sur le lit à côté du miroir de la chambre. — The pillow is on the bed next to the bedroom mirror.
