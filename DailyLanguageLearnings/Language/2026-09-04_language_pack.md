@@ -2,56 +2,56 @@
 
 ## Spanish
 Words:
-- cama — bed
-- reloj — clock
-- toalla — towel
+- servilleta — napkin
+- cuchillo — knife
+- tenedor — fork
 Phrases:
-- acostarse por la noche — go to bed at night
-- mirar la hora — check the time
-- secar con toalla — dry with a towel
+- cortar el pan — cut the bread
+- limpiar la servilleta — clean the napkin
+- usar el tenedor — use the fork
 Sentences:
-- La cama es cómoda y uso toalla limpia cada día. — The bed is comfortable and I use a clean towel every day.
-- Me acuesto en la cama y miro el reloj antes de dormir. — I lie down in bed and check the clock before sleeping.
-- El reloj está en la mesita cerca de mi cama suave. — The clock is on the nightstand near my soft bed.
+- El cuchillo corta el pan muy bien en la mesa. — The knife cuts the bread very well at the table.
+- Limpio la servilleta después de usar el tenedor. — I clean the napkin after using the fork.
+- El tenedor y el cuchillo están en el plato limpio. — The fork and knife are on the clean plate.
 
 ## Brazilian Portuguese
 Words:
-- cama — bed
-- relógio — clock
-- toalha — towel
+- guardanapo — napkin
+- faca — knife
+- garfo — fork
 Phrases:
-- deitar na cama — lie down in bed
-- ver a hora — check the time
-- secar com toalha — dry with a towel
+- cortar o pão — cut the bread
+- limpar o guardanapo — clean the napkin
+- usar o garfo — use the fork
 Sentences:
-- A cama é confortável e uso toalha limpa todos os dias. — The bed is comfortable and I use a clean towel every day.
-- Me deito na cama e vejo o relógio antes de dormir. — I lie down in bed and check the clock before sleeping.
-- O relógio está na mesinha perto de minha cama macia. — The clock is on the nightstand near my soft bed.
+- A faca corta o pão muito bem na mesa. — The knife cuts the bread very well at the table.
+- Limpo o guardanapo depois de usar o garfo. — I clean the napkin after using the fork.
+- O garfo e a faca estão no prato limpo. — The fork and knife are on the clean plate.
 
 ## Italian
 Words:
-- letto — bed
-- orologio — clock
-- asciugamano — towel
+- tovagliolo — napkin
+- coltello — knife
+- forchetta — fork
 Phrases:
-- sdraiarsi sul letto — lie down on the bed
-- controllare l'ora — check the time
-- asciugarsi con asciugamano — dry with a towel
+- tagliare il pane — cut the bread
+- pulire il tovagliolo — clean the napkin
+- usare la forchetta — use the fork
 Sentences:
-- Il letto è comodo e uso un asciugamano pulito ogni giorno. — The bed is comfortable and I use a clean towel every day.
-- Mi sdraio sul letto e controllo l'orologio prima di dormire. — I lie down on the bed and check the clock before sleeping.
-- L'orologio è sul comodino vicino al mio letto morbido. — The clock is on the nightstand near my soft bed.
+- Il coltello taglia il pane molto bene al tavolo. — The knife cuts the bread very well at the table.
+- Pulisco il tovagliolo dopo aver usato la forchetta. — I clean the napkin after using the fork.
+- La forchetta e il coltello sono sul piatto pulito. — The fork and knife are on the clean plate.
 
 ## French
 Words:
-- lit — bed
-- horloge — clock
-- serviette — towel
+- serviette — napkin
+- couteau — knife
+- fourchette — fork
 Phrases:
-- se coucher dans le lit — lie down in bed
-- vérifier l'heure — check the time
-- s'essuyer avec une serviette — dry with a towel
+- couper le pain — cut the bread
+- nettoyer la serviette — clean the napkin
+- utiliser la fourchette — use the fork
 Sentences:
-- Le lit est confortable et j'utilise une serviette propre chaque jour. — The bed is comfortable and I use a clean towel every day.
-- Je me couche dans le lit et je vérifie l'horloge avant de dormir. — I lie down in bed and check the clock before sleeping.
-- L'horloge est sur la table de nuit près de mon lit douillet. — The clock is on the nightstand near my cozy bed.
+- Le couteau coupe le pain très bien à la table. — The knife cuts the bread very well at the table.
+- Je nettoie la serviette après avoir utilisé la fourchette. — I clean the napkin after using the fork.
+- La fourchette et le couteau sont sur l'assiette propre. — The fork and knife are on the clean plate.
