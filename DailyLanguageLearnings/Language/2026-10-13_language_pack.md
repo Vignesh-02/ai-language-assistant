@@ -2,56 +2,56 @@
 
 ## Spanish
 Words:
-- espejo — mirror
-- vaso — glass
-- lámpara — lamp
+- puerta — door
+- pan — bread
+- mano — hand
 Phrases:
-- mirar en el espejo — look in the mirror
-- llenar el vaso — fill the glass
-- encender la lámpara — turn on the lamp
+- cerrar la puerta — close the door
+- comer pan fresco — eat fresh bread
+- levanta la mano — raise your hand
 Sentences:
-- Me miro en el espejo y veo mi reflejo cada mañana. — I look at myself in the mirror and see my reflection every morning.
-- Lleno el vaso con agua y la lámpara brilla en la habitación. — I fill the glass with water and the lamp shines in the room.
-- La lámpara ilumina el espejo cuando enciendo la luz por la noche. — The lamp illuminates the mirror when I turn on the light at night.
+- Cierro la puerta con la mano cada mañana antes de salir. — I close the door with my hand every morning before leaving.
+- Como pan fresco en la mano durante el desayuno. — I eat fresh bread in my hand during breakfast.
+- La puerta y la mano están limpias después de trabajar. — The door and hand are clean after working.
 
 ## Brazilian Portuguese
 Words:
-- espelho — mirror
-- copo — glass
-- lâmpada — lamp
+- porta — door
+- pão — bread
+- mão — hand
 Phrases:
-- olhar no espelho — look in the mirror
-- encher o copo — fill the glass
-- acender a lâmpada — turn on the lamp
+- fechar a porta — close the door
+- comer pão fresco — eat fresh bread
+- levantar a mão — raise your hand
 Sentences:
-- Me olho no espelho e vejo meu reflexo cada manhã. — I look at myself in the mirror and see my reflection every morning.
-- Encho o copo com água e a lâmpada brilha na sala. — I fill the glass with water and the lamp shines in the room.
-- A lâmpada ilumina o espelho quando acendo a luz à noite. — The lamp illuminates the mirror when I turn on the light at night.
+- Fecho a porta com a mão cada manhã antes de sair. — I close the door with my hand every morning before leaving.
+- Como pão fresco na mão durante o café da manhã. — I eat fresh bread in my hand during breakfast.
+- A porta e a mão estão limpas depois de trabalhar. — The door and hand are clean after working.
 
 ## Italian
 Words:
-- specchio — mirror
-- bicchiere — glass
-- lampada — lamp
+- porta — door
+- pane — bread
+- mano — hand
 Phrases:
-- guardare nello specchio — look in the mirror
-- riempire il bicchiere — fill the glass
-- accendere la lampada — turn on the lamp
+- chiudere la porta — close the door
+- mangiare pane fresco — eat fresh bread
+- alzare la mano — raise your hand
 Sentences:
-- Mi guardo nello specchio e vedo il mio riflesso ogni mattina. — I look at myself in the mirror and see my reflection every morning.
-- Riempio il bicchiere con acqua e la lampada brilla nella stanza. — I fill the glass with water and the lamp shines in the room.
-- La lampada illumina lo specchio quando accendo la luce di notte. — The lamp illuminates the mirror when I turn on the light at night.
+- Chiudo la porta con la mano ogni mattina prima di uscire. — I close the door with my hand every morning before leaving.
+- Mangio pane fresco in mano durante la colazione. — I eat fresh bread in my hand during breakfast.
+- La porta e la mano sono pulite dopo il lavoro. — The door and hand are clean after working.
 
 ## French
 Words:
-- miroir — mirror
-- verre — glass
-- lampe — lamp
+- porte — door
+- pain — bread
+- main — hand
 Phrases:
-- regarder dans le miroir — look in the mirror
-- remplir le verre — fill the glass
-- allumer la lampe — turn on the lamp
+- fermer la porte — close the door
+- manger du pain frais — eat fresh bread
+- lever la main — raise your hand
 Sentences:
-- Je me regarde dans le miroir et je vois mon reflet chaque matin. — I look at myself in the mirror and see my reflection every morning.
-- Je remplis le verre d'eau et la lampe brille dans la pièce. — I fill the glass with water and the lamp shines in the room.
-- La lampe illumine le miroir quand j'allume la lumière la nuit. — The lamp illuminates the mirror when I turn on the light at night.
+- Je ferme la porte avec la main chaque matin avant de partir. — I close the door with my hand every morning before leaving.
+- Je mange du pain frais dans la main pendant le petit-déjeuner. — I eat fresh bread in my hand during breakfast.
+- La porte et la main sont propres après le travail. — The door and hand are clean after working.
